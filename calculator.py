@@ -1,3 +1,6 @@
+# Simple Calculator
+def calculator():
+    pass
 num1= int(input("Enter first number: "))
 num2= int(input("Enter second number: "))
 print("1: Addition")
